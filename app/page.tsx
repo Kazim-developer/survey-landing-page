@@ -945,8 +945,7 @@ export default function Page() {
         </section>
 
         <footer className="border-t border-slate-800 py-8 text-center text-sm text-slate-600">
-          &copy; {new Date().getFullYear()} StackForge. Built for developers who
-          ship.
+          &copy; 2026 StackForge. Built for developers who ship.
         </footer>
       </div>
 
